@@ -79,7 +79,7 @@ Follow these steps to set up the project locally:
 
 ## 🌍 Deployment  
 
-The application is live! Check it out here: [Klimate Live](https://your-deployed-link.com)  
+The application is live! Check it out here: [Klimate Live](klimate-zmok.vercel.app/)  
 
 ---
 
