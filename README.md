@@ -11,10 +11,6 @@
 - **Dark Mode**: Toggle between light and dark themes seamlessly.  
 - **Weekly Forecast**: Detailed 7-day forecast with temperature, humidity, and wind speed.
 
-  ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![OpenWeatherAPI](https://img.shields.io/badge/API-OpenWeather-orange?style=for-the-badge)
-
 
 ---
 
@@ -22,7 +18,10 @@
 
 - **Frontend**: React.js, Tailwind CSS  
 - **API**: [OpenWeather API](https://openweathermap.org/)  
-- **Deployment**: Vercel/Netlify  
+- **Deployment**: Vercel/Netlify
+   ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![OpenWeatherAPI](https://img.shields.io/badge/API-OpenWeather-orange?style=for-the-badge)
 
 ---
 
