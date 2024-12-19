@@ -69,11 +69,11 @@ Follow these steps to set up the project locally:
 
 ### 🌞 Light Mode  
 
-![Light Mode UI](https://via.placeholder.com/800x400?text=Light+Mode+Screenshot)  
+![Light Mode UI](https://github.com/MayankGhatawal/Klimate/blob/master/public/Screenshot%202024-12-19%20215759.png?raw=true)  
 
 ### 🌙 Dark Mode  
 
-![Dark Mode UI](https://via.placeholder.com/800x400?text=Dark+Mode+Screenshot)  
+![Dark Mode UI](https://github.com/MayankGhatawal/Klimate/blob/master/public/Screenshot%202024-12-19%20215347.png?raw=true)  
 
 ---
 
