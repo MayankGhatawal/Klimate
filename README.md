@@ -1,9 +1,4 @@
 # 🌦️ Klimate  
-
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![OpenWeatherAPI](https://img.shields.io/badge/API-OpenWeather-orange?style=for-the-badge)
-
 **Klimate** is a modern weather application that brings real-time weather updates and forecasts to your fingertips. With a sleek user interface and reliable data, Klimate helps you plan your day better. 🌍
 
 ---
@@ -15,6 +10,11 @@
 - **Responsive Design**: Beautiful on any device — mobile, tablet, or desktop.  
 - **Dark Mode**: Toggle between light and dark themes seamlessly.  
 - **Weekly Forecast**: Detailed 7-day forecast with temperature, humidity, and wind speed.
+
+  ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![OpenWeatherAPI](https://img.shields.io/badge/API-OpenWeather-orange?style=for-the-badge)
+
 
 ---
 
