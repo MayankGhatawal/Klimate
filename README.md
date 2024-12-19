@@ -1,6 +1,7 @@
 # 🌦️ Klimate  
 **Klimate** is a modern weather application that brings real-time weather updates and forecasts to your fingertips. With a sleek user interface and reliable data, Klimate helps you plan your day better. 🌍
 
+<img src="https://github.com/MayankGhatawal/Klimate/blob/master/public/Screenshot%202024-12-19%20215347.png?raw=true"></img>
 ---
 
 ## 🌟 Features  
